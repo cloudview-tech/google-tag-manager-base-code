@@ -15,5 +15,5 @@
 homepage: "https://phoenix-ads.com/home"
 documentation: "https://phoenix-ads.com/home"
 versions:
-  - sha: ee2527a280d424d6e35bda29d93757fdbd4f8e68
+  - sha: 455f1ce40c5f532b7402c1ef9335545f3404ef2f
     changeNotes: Initial Version
