@@ -16,6 +16,6 @@ homepage: "https://phoenix-ads.com/home"
 documentation: "https://phoenix-ads.com/doc/c2s.html"
 versions:
   - sha: 16eee2626ee74ffdf7ba48e0f88829cb7a4777cf
-      changeNotes: Add documentation
+    changeNotes: Add documentation
   - sha: 455f1ce40c5f532b7402c1ef9335545f3404ef2f
     changeNotes: Initial Version
